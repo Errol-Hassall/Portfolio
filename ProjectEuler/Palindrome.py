@@ -16,9 +16,9 @@ def main():
 		if (l_reverse == l_palindrome and int(l_reverse) > l_highest):
 			l_highest = int(l_reverse)		
 			
-		if (l_right >= 100):
+		if (l_right >= 900):
 			l_right -= 1
-			if(l_right <= 100):
+			if(l_right <= 900):
 				l_left_decrement = True
 			
 		if (l_left_decrement == True):
@@ -26,7 +26,7 @@ def main():
 			l_left_decrement = False
 			l_right = 999
 			
-		if(l_left <=100):
+		if(l_left <=900):
 				print(l_highest)
 				l_continue =False
 	
