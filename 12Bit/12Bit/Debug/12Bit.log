@@ -1,0 +1,4 @@
+﻿  IFStream12Bits.cpp
+c:\users\errol\dropbox\uniyear3\semester1\dsp\12bit\12bit\ifstream12bits.cpp(32): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  12Bit.vcxproj -> C:\Users\Errol\Dropbox\UniYear3\Semester1\DSP\12Bit\Debug\12Bit.exe
+  12Bit.vcxproj -> C:\Users\Errol\Dropbox\UniYear3\Semester1\DSP\12Bit\Debug\12Bit.pdb (Partial PDB)
